@@ -18,6 +18,8 @@
 
 目前的管理员只有两个，一个是lightum_cc，一个是soap________
 
+目前唯一的服务邮箱是: service@createchstudio.com
+
 请时刻留意这里的公告，因为这可能包括服务器的新玩法，维护时间，以及新规则。
 
 如果您遇到了一些游玩上的问题，您可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/14 发送一个标签为“BUG”或者“服务器崩溃/无法访问”的Issue，我们将尽快与您取得联系。
