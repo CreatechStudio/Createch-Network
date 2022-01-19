@@ -95,3 +95,11 @@
 
 如果您发现了一些好玩的地点，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/7 发送一个标签为“传送点申请”的Issue，我们将在审核后尽快为您添加。
 如果您在传送时出现问题，请遵循发送问题（即标签为“BUG”的Issue），我们将尽快与您取得联系。
+
+## 请服主喝一杯咖啡
+
+每年的服务费用大约在3000左右，服主还只是一个学生党。求各位玩家老爷们救救孩子（
+注：本服务器永久免费，捐助完全自愿。您的捐赠不会给您带来任何游戏奖励，但一定会给您更好的游戏体验。
+单次捐助超过10元的，可以被贴在GitHub上的赞助名单，让所有玩家膜拜（
+![WechatIMG160](https://user-images.githubusercontent.com/60721270/150107098-a2c9e19f-3f16-4edf-9bd0-013f0ed98af4.jpeg)
+![WechatIMG161](https://user-images.githubusercontent.com/60721270/150107110-7c556263-0d7a-4bc1-a26f-ff56c36351b8.jpeg)
