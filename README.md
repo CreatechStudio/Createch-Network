@@ -1,6 +1,6 @@
 # **您好，欢迎来到UCS-Minecraft Server的GitHub仓库**
 
-服务器地址: mc.createchstudio.com
+服务器地址: 请发送信任申请后获取
 
 版本: 1.18.1 -forge（可选）
 
