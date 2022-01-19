@@ -34,7 +34,7 @@
 
 在上述网站的用户中心内可以添加/设置您的皮肤/披风，
 
-如果您有任何问题，可以发送一个标签为“提问”的 Issue， 我们将尽快与您取得联系。或发送邮件到 service@createchstudio.com
+如果您有任何问题，请参考视频教程： https://www.bilibili.com/video/BV1WP4y177jn 如果仍然无法解决，可以发送一个标签为“提问”的 Issue， 我们将尽快与您取得联系。或发送邮件到 service@createchstudio.com
 
 问题帮助： https://blessing.netlify.app/yggdrasil-api/authlib-injector.html#%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%E5%99%A8 
 
