@@ -16,7 +16,7 @@
 
 ### 管理员不会以任何理由索要钱财，账号，密码，物资，请小心警惕！
 
-目前的管理员只有两个，一个是lightum_cc，一个是soap________
+目前的管理员只有一个,游戏内ID：lightum_cc
 
 目前唯一的服务邮箱是: service@createchstudio.com
 
