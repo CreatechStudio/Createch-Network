@@ -24,6 +24,20 @@
 
 如果您遇到了一些游玩上的问题，您可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/14 发送一个标签为“BUG”或者“服务器崩溃/无法访问”的Issue，我们将尽快与您取得联系。
 
+## 启动前的一些准备
+
+请前往 https://littleskin.cn/ 完成账号注册，如果有正版账号，请在注册完成之后绑定正版账号。
+
+接着，在您的启动器里面选择添加外置登录服务器，并按照上述网站用户中心内的提示完成操作。
+
+如果一切顺利，您不需要在服务器内输入账号密码。
+
+在上述网站的用户中心内可以添加/设置您的皮肤/披风，
+
+如果您有任何问题，可以发送一个标签为“提问”的 Issue， 我们将尽快与您取得联系。或发送邮件到 service@createchstudio.com
+
+问题帮助： https://blessing.netlify.app/yggdrasil-api/authlib-injector.html#%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%E5%99%A8 
+
 ## UCS-Minecraft Server是一个和谐友爱的服务器，所以您必须遵守以下规则
 
 1. 在纯净生存（Pure Survival）当中，您不可以使用任何游戏外挂，来获取物资或杀戮其他玩家。
