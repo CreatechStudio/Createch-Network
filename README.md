@@ -84,6 +84,7 @@
 ## 游戏内语音
 
 请前往 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat 了解详细。在release界面提供快速下载通道。
+macOS用户只可以听不可以说，由于启动器原因
 
 ## tplist地点清单
 
