@@ -119,4 +119,4 @@
 
 
 
-### 服务器由CreatechStudio Internet Servive部门提供技术支持以及服务器
+### 服务器由CreatechStudio Internet Service部门提供技术支持以及服务器
