@@ -1,4 +1,4 @@
-# **您好，欢迎来到UCS-Minecraft Server的GitHub仓库**
+# **您好，欢迎来到UCS-Minecraft Server**
 
 服务器地址: 请发送信任申请后获取
 
