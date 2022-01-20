@@ -20,7 +20,7 @@
 
 目前的管理员只有一个,游戏内ID：lightum_cc
 
-目前唯一的服务邮箱是: service@createchstudio.com
+目前唯二的服务邮箱是: no-reply@createchstudio.com   service@createchstudio.com
 
 请时刻留意这里的公告，因为这可能包括服务器的新玩法，维护时间，以及新规则。
 
