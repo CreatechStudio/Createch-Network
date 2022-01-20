@@ -85,7 +85,7 @@
 
 请前往 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat 了解详细。在release界面提供快速下载通道。
 macOS用户只可以听不可以说，由于启动器原因
-
+详细问题请参考： https://github.com/henkelmax/simple-voice-chat/tree/1.18.1/macos#how-to-patch-your-launcher 
 ## tplist地点清单
 
 1.基地 137 55 129 (主世界）
