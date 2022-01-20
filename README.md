@@ -80,7 +80,7 @@
 
 ## tplist地点清单
 
-1.洞穴 137 55 129 (主世界）
+1.基地 137 55 129 (主世界）
 
 2.末地传送门 -249 24 -1562 （主世界）
 
@@ -94,6 +94,11 @@
 
 如果您发现了一些好玩的地点，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/7 发送一个标签为“传送点申请”的Issue，我们将在审核后尽快为您添加。
 如果您在传送时出现问题，请遵循发送问题（即标签为“BUG”的Issue），我们将尽快与您取得联系。
+
+## 负魔列表--让你的附魔多一点意外
+
+![151027hdcyj1dh1swdni1g](https://user-images.githubusercontent.com/60721270/150293669-5c35f1ab-c0b9-46d8-99b0-e90b8d4d0b7c.png)
+
 
 ## 请服主喝一杯咖啡
 
