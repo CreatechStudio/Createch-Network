@@ -53,7 +53,8 @@
 7. 禁止在游戏内传播违法，宗教，色情内容，如果被举报、巡察发现，将会被永久ban-ip。
 8. 请不要尝试去攻击服务器，我们保留发起反击的权利。
 9. 如果您觉得自己是一个优秀的玩家，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/13 发送一个标签为“内测申请”的Issue,提交内测申请，提前尝试最新玩法,我们将尽快与您取得联系。
-10. 祝您在服务器内度过美好的时光。
+10. ### 在您计划进行10秒内有大于等于10个TNT引爆的活动时，如制作空置域时，需至少提前一天 按照模板 https://github.com/CreatechStudio/UCS-Server/issues/21 发送一个标签为“爆破申请”的Issue，您必须在得到授权邮件后，方可开始作业。否则后果自负。
+11. 祝您在服务器内度过美好的时光。
 
 ## 已知问题
 
@@ -79,6 +80,10 @@
 
 /tpa here 玩家名                           
 请求将某玩家传送至当前位置
+
+## 游戏内语音
+
+请前往 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat 了解详细。在release界面提供快速下载通道。
 
 ## tplist地点清单
 
