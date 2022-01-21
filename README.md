@@ -85,8 +85,8 @@
 
 请前往 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat 了解详细。在release界面提供快速下载通道。
 如果出现安装后提示”语音通话不可用“，请检查电脑防火墙是否放通24454端口（UDP协议）
-macOS用户只可以听不可以说，由于启动器原因
-详细问题请参考： https://github.com/henkelmax/simple-voice-chat/tree/1.18.1/macos#how-to-patch-your-launcher 
+### macOS用户请查看视频教程: https://www.bilibili.com/video/BV1LS4y1o7WT 
+如果有任何问题，可以发送一个标签为“提问”的Issue，我们将尽快与您取得联系，或发送邮件到service@createchstudio.com
 
 ## tplist地点清单
 
