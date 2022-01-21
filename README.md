@@ -4,7 +4,8 @@
 
 版本: 1.18.1 -forge（可选）
 
-模组：All Music 请前往release界面下载
+模组：All Music 点歌，请前往release界面下载
+    Simple-Voice-Chat 游戏内语音，请前往release界面下载，macOS用户请检查 “游戏内语音”帮助模块
 
 本仓库将用于公告服务器更新内容，更新计划，玩家规则，玩家帮助，封禁公示，备份服务器文件。
 
