@@ -10,6 +10,8 @@
 
 如果您是一名新来的玩家，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/6 发送一个标签为“白名单申请”的Issue，我们将尽快与您取得联系。
 
+可以在游戏内使用 /sacreport 玩家名 实现对某个玩家举报，或者按照模板 https://github.com/CreatechStudio/Createch-Network/issues/22 发送一个标签为“举报”的Issue，我们就尽快与您取得联系。
+
 作为一个合格的玩家，您必须遵守服务器守则，否则您将面临封禁等处罚,但是如果您觉得处罚不公，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/9 发送一个标签为“封禁申诉”的Issue，我们将尽快与您取得联系。
 
 提问永远不是一件坏事，如果您遇到任何不了解的问题，可以发送一个标签为“提问”的 Issue， 我们将尽快与您取得联系。或发送邮件到 service@createchstudio.com
