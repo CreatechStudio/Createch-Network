@@ -8,11 +8,11 @@
 
 我们很乐意收取来自您的建议，如果您有任何问题，可以在Issue中发表您的观点，我们一定会认真聆听您的想法。
 
-如果您是一名新来的玩家，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/6 发送一个标签为“白名单申请”的Issue，我们将尽快与您取得联系。
+如果您是一名新来的玩家，可以按照模板 https://github.com/CreatechStudio/Createch-Network/issues/6 发送一个标签为“白名单申请”的Issue，我们将尽快与您取得联系。
 
 可以在游戏内使用 /report 玩家名 理由   实现对某个玩家举报，或者按照模板 https://github.com/CreatechStudio/Createch-Network/issues/22 发送一个标签为“举报”的Issue，我们就尽快与您取得联系。
 
-作为一个合格的玩家，您必须遵守服务器守则，否则您将面临封禁等处罚,但是如果您觉得处罚不公，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/9 发送一个标签为“封禁申诉”的Issue，我们将尽快与您取得联系。
+作为一个合格的玩家，您必须遵守服务器守则，否则您将面临封禁等处罚,但是如果您觉得处罚不公，可以按照模板 https://github.com/CreatechStudio/Createch-Network/issues/9 发送一个标签为“封禁申诉”的Issue，我们将尽快与您取得联系。
 
 提问永远不是一件坏事，如果您遇到任何不了解的问题，可以发送一个标签为“提问”的 Issue， 我们将尽快与您取得联系。或发送邮件到 service@createchstudio.com
 
@@ -24,7 +24,7 @@
 
 请时刻留意这里的公告，因为这可能包括服务器的新玩法，维护时间，以及新规则。
 
-如果您遇到了一些游玩上的问题，您可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/14 发送一个标签为“BUG”或者“服务器崩溃/无法访问”的Issue，我们将尽快与您取得联系。
+如果您遇到了一些游玩上的问题，您可以按照模板 https://github.com/CreatechStudio/Createch-Network/issues/14 发送一个标签为“BUG”或者“服务器崩溃/无法访问”的Issue，我们将尽快与您取得联系。
 
 
 ## 启动前的一些准备
@@ -44,7 +44,7 @@
 问题帮助： https://blessing.netlify.app/yggdrasil-api/authlib-injector.html#%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%E5%99%A8 
 
 
-## UCS-Minecraft Server是一个和谐友爱的服务器，所以您必须遵守以下规则
+## Createch-Network是一个和谐友爱的服务器，所以您必须遵守以下规则
 
 1. 在纯净生存（Pure Survival）当中，您不可以使用任何游戏外挂，来获取物资或杀戮其他玩家。
 
@@ -62,9 +62,9 @@
 
 8. 请不要尝试去攻击服务器，我们保留发起反击的权利。
 
-9. 如果您觉得自己是一个优秀的玩家，可以按照模板 https://github.com/CreatechStudio/UCS-Server/issues/13 发送一个标签为“内测申请”的Issue,提交内测申请，提前尝试最新玩法,我们将尽快与您取得联系。
+9. 如果您觉得自己是一个优秀的玩家，可以按照模板 https://github.com/CreatechStudio/Createch-Network/issues/13 发送一个标签为“内测申请”的Issue,提交内测申请，提前尝试最新玩法,我们将尽快与您取得联系。
 
-10. ### 在您计划进行10秒内有大于等于10个TNT引爆的活动时，如制作空置域时，需至少提前一天 按照模板 https://github.com/CreatechStudio/UCS-Server/issues/21 发送一个标签为“爆破申请”的Issue，您必须在得到授权邮件后，方可开始作业。否则后果自负。
+10. ### 在您计划进行10秒内有大于等于10个TNT引爆的活动时，如制作空置域时，需至少提前一天 按照模板 https://github.com/CreatechStudio/Createch-Network/issues/21 发送一个标签为“爆破申请”的Issue，您必须在得到授权邮件后，方可开始作业。否则后果自负。
 
 11. 祝您在服务器内度过美好的时光。
 
