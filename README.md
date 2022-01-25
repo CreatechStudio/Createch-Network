@@ -101,13 +101,13 @@
 
 根据测试，获得以下分辨率-方块对照表
 
-64*64px = 1*1block
+64 * 64px = 1 * 1block
 ![image](https://user-images.githubusercontent.com/60721270/150914637-55a6cda6-a705-4c17-810e-f421b6074b5c.png)
 
-1920*1080px = 16*8blocks
+1920 * 1080px = 16 * 8blocks
 ![image](https://user-images.githubusercontent.com/60721270/150914611-00a4559f-40a7-44e6-840f-7a27103a7864.png)
 
-720*480px = 5*3blocks
+720 * 480px = 5 * 3blocks
 ![image](https://user-images.githubusercontent.com/60721270/150914619-31fb7386-6eca-41c6-8b44-80d3aed73b5a.png)
 
 
