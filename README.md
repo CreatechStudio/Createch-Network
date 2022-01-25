@@ -2,7 +2,7 @@
 
 服务器地址: 请发送信任申请后获取
 
-版本: 1.18.1 -forge（可选）
+版本: 1.18.1-forge（必选）-optfine（可选）
 
 本仓库将用于公告服务器更新内容，更新计划，玩家规则，玩家帮助，封禁公示，备份服务器文件。
 
@@ -96,6 +96,30 @@
 请求将某玩家传送至当前位置
 
 
+## 游戏内作画
+现在服务器内可以放置各种图片,如png/jpg等，可以按照模板 https://github.com/CreatechStudio/Createch-Network/issues/24 发送一个标签为“画图请求”的Issue，我们会尽快与您取得联系。
+
+根据测试，获得以下分辨率-方块对照表
+
+64*64px = 1*1block
+![image](https://user-images.githubusercontent.com/60721270/150914637-55a6cda6-a705-4c17-810e-f421b6074b5c.png)
+
+1920*1080px = 16*8blocks
+![image](https://user-images.githubusercontent.com/60721270/150914611-00a4559f-40a7-44e6-840f-7a27103a7864.png)
+
+720*480px = 5*3blocks
+![image](https://user-images.githubusercontent.com/60721270/150914619-31fb7386-6eca-41c6-8b44-80d3aed73b5a.png)
+
+
+
+### 禁止上传任何违法内容！
+
+
+## 负魔列表--让你的附魔多一点意外
+
+![151027hdcyj1dh1swdni1g](https://user-images.githubusercontent.com/60721270/150293669-5c35f1ab-c0b9-46d8-99b0-e90b8d4d0b7c.png)
+
+
 ## 游戏内语音
 
 请前往 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat 了解详细。在release界面提供快速下载通道。
@@ -131,10 +155,6 @@
 
 如果您在传送时出现问题，请遵循发送问题（即标签为“BUG”的Issue），我们将尽快与您取得联系。
 
-
-## 负魔列表--让你的附魔多一点意外
-
-![151027hdcyj1dh1swdni1g](https://user-images.githubusercontent.com/60721270/150293669-5c35f1ab-c0b9-46d8-99b0-e90b8d4d0b7c.png)
 
 
 ## 请服主喝一杯咖啡
