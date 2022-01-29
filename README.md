@@ -147,6 +147,12 @@
 ### 禁止上传任何违法内容！
 
 
+## 附魔列表--让你的附魔充满奇幻之旅
+![战斗附魔](https://user-images.githubusercontent.com/60721270/151665345-035b9ca9-ee60-453d-bbc1-af3f52608840.jpg)
+![工具+护甲附魔](https://user-images.githubusercontent.com/60721270/151665352-49be6f87-8315-4a40-a7cc-c21208d6996c.jpg)
+![弓弩附魔](https://user-images.githubusercontent.com/60721270/151665356-7ae0e087-e8ae-4abd-85d7-93303701145b.jpg)
+
+
 ## 负魔列表--让你的附魔多一点意外
 
 ![151027hdcyj1dh1swdni1g](https://user-images.githubusercontent.com/60721270/150293669-5c35f1ab-c0b9-46d8-99b0-e90b8d4d0b7c.png)
