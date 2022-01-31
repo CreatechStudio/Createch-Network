@@ -71,7 +71,7 @@
 
 ## 已知问题
 
-1. 从地狱门返回可能出现传送错误，这是Mojang的问题，请尝试使用tplist解决您的问题
+1. 从地狱门返回可能出现传送错误，这是Mojang的问题，请尝试使用warp指令解决您的问题
 
 
 ## 服务器内指令：
@@ -142,15 +142,7 @@
 720 * 480px = 5 * 3blocks
 ![image](https://user-images.githubusercontent.com/60721270/150914619-31fb7386-6eca-41c6-8b44-80d3aed73b5a.png)
 
-
-
 ### 禁止上传任何违法内容！
-
-
-## 附魔列表--让你的附魔充满奇幻之旅
-![战斗附魔](https://user-images.githubusercontent.com/60721270/151665345-035b9ca9-ee60-453d-bbc1-af3f52608840.jpg)
-![工具+护甲附魔](https://user-images.githubusercontent.com/60721270/151665352-49be6f87-8315-4a40-a7cc-c21208d6996c.jpg)
-![弓弩附魔](https://user-images.githubusercontent.com/60721270/151665356-7ae0e087-e8ae-4abd-85d7-93303701145b.jpg)
 
 
 ## 负魔列表--让你的附魔多一点意外
